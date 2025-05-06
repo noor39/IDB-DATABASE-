@@ -124,7 +124,7 @@ footer ul li span{
 footer ul li a{
     text-decoration: none;
     display: inline-block;
-    color: #e4e4e4;
+    color: #ff002c;
     transition-duration: 0.3s;
 }
 footer ul li a:hover{
@@ -139,13 +139,17 @@ footer ul li a i{
     display: flex;
     justify-content: flex-end;
 }
+.overlaybttn a i {
+    color: #ff020c;
+    font-size: 27px;
+}
 .overlaybttn a{
     color: white;
     display: inline-block;
     text-decoration: none;
     padding: 10px 10px;
     border-radius: 20px;
-    background: #1c1c1c;
+    background: #ff020c;
     transition-duration: 0.3s;
     /* box-shadow: 2px 2px 6px #0b0b0b, -2px -2px 6px #2d2d2d; */
 }
