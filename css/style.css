@@ -24,6 +24,13 @@ header{
 }
 .head{
 }
+.fa-arrow-circle-down:before {
+    content: "\f0ab";
+}
+.overlaybttn a i {
+    color: #e90000;
+    font-size: 30px;
+}
 .head h1{
     /* padding-top: 70px; */
     /* padding: 40px; */
