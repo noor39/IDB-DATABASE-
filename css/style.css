@@ -24,11 +24,9 @@ header{
 }
 .head{
 }
-.fa-arrow-circle-down:before {
-    content: "\f0ab";
-}
+
 .overlaybttn a i {
-    color: #e90000;
+    color: #ff002c;
     font-size: 30px;
 }
 .head h1{
@@ -169,6 +167,7 @@ footer ul li a i{
 .titl{
     width: 100%;
     /* font-size: 34px; */
+    color:#4285F4;
     padding-bottom: 10px;
 }
 .titl h1{
